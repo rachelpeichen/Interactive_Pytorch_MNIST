@@ -1,0 +1,7 @@
+numpy
+olefile
+Pillow
+PyYAML
+six
+torch 
+torchvision 
