@@ -12,7 +12,7 @@ This program modified from the [official PyTorch MNIST example](https://github.c
 ### How to use:
 #### 1. clone project
   
-  `$ git clone https://github.com/Interactive_Pytorch_MNIST.git`
+  `$ git clone https://github.com/rachelpeichen/Interactive_Pytorch_MNIST.git`
     
   `$ cd Interactive_Pytorch_MNIST`
 
